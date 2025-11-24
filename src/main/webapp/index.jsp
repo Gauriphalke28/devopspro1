@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1 style="color:yellow;">Welcome to CJC Classes Karvenagar Pune</h1>
+        <h1 style="color:yellow;">Welcome to Adhyayann Classes Karvenagar Pune</h1>
         <nav>
             <a href="index.jsp">Home</a>
             <a href="about.jsp">About</a>
@@ -16,7 +16,7 @@
         </nav>
     </header>
     <section>
-        <h2>Learn Cloud & Software Development</h2>
+        <h2>Learn Cloud computing & devops,Azure</h2>
         <p>Join our expert-led courses on Java, Python, and AWS Cloud Computing.</p>
         <p>Software Development Institute in Karvenagar , Pune</p>
 

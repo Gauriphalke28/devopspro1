@@ -8,11 +8,11 @@
 </head>
 <body>
     <header>
-        <h1 style="color:yellow;">Welcome to CJC Classes Karvenagar Pune</h1>
+        <h1 style="color:yellow;">Welcome to Adhyanyan Classes Karvenagar Pune</h1>
         <nav>
-            <a href="index.jsp">Home</a>
-            <a href="about.jsp">About</a>
-            <a href="contact.jsp">Contact</a>
+            <a href="index.jsp">I</a>
+            <a href="about.jsp">A</a>
+            <a href="contact.jsp">C</a>
         </nav>
     </header>
     <section>
